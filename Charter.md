@@ -47,8 +47,8 @@ LinkedIn: https://github.com/RCOE-Code-Cell
 Instagram: @cc_rcoe
 
 ## Committee Heads 
-Smit Jiwani (TE AI/DS)
-Mustafa Akolawala (TE COMPS)
+* Smit Jiwani (TE AI/DS)
+* Mustafa Akolawala (TE COMPS)
 
 ## Tech Head
 Adnan Khan (TE COMPS)
