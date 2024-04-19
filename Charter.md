@@ -31,7 +31,7 @@ The Code Cell RCOE shall be led by two committee heads and each department may h
 
 ## Departments
 The Code Cell RCOE consists of three departments, each headed by a designated student leader:
-1. TECH Department: Responsible for organizing technical workshops, coding competitions, and projects.
+1. Technical Department: Responsible for organizing technical workshops, coding competitions, and projects.
 2. Marketing and PR Department: Responsible for promoting the activities of the organization and managing its public relations.
 3. Management and Logistics Department: Responsible for organizing events, managing resources, and handling logistics.
 
