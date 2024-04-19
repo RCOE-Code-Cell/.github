@@ -56,7 +56,7 @@ Adnan Khan (TE COMPS)
 ## Marketing Head
 Binish Moosa (SE COMPS)
 
-** Management & Logistics Head
+## Management & Logistics Head
 (vacant)
 
 
