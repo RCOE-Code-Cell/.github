@@ -51,31 +51,32 @@ Instagram: @cc_rcoe
 * Mustafa Akolawala (TE COMPS)
 
 ## Tech Head
-Adnan Khan (TE COMPS)
+* Adnan Khan (TE COMPS)
 
 ## Marketing Head
-Binish Moosa (SE COMPS)
+* Binish Moosa (SE COMPS)
 
 ## Management & Logistics Head
 (vacant)
 
 
 ## Members
-Himanshu Mishra
-AbdulHadi Bavani 
-Yash Pandey 
-Khan Ramsha Ayub 
-Fareed Khalil Sayed
-Prathamesh Gate
-Harsh Talele
-Mohamed Juned Khan
-Mohammed Daniyal Sarwar khan 
-Rehbar Khan
-Mehvish Sayyad
+* Himanshu Mishra
+* AbdulHadi Bavani 
+* Yash Pandey 
+* Khan Ramsha Ayub 
+* Fareed Khalil Sayed
+* Prathamesh Gate
+* Harsh Talele
+* Mohamed Juned Khan
+* Mohammed Daniyal Sarwar khan 
+* Rehbar Khan
+* Mehvish Sayyad
+* Juniad Shaikh
 
-Teacher In-charges
-Prof. Arun Kumar Mishra
-Prof. Aishwarya Kamat 
-Prof. Junaid Mandiwala (Dean)
+## Teacher In-charges
+* Prof. Arun Kumar Mishra
+* Prof. Aishwarya Kamat 
+* Prof. Junaid Mandiwala (Dean)
 
 
