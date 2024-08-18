@@ -27,7 +27,7 @@ To be recognized as a premier technical organization within Rizvi College of Eng
 Membership to the Code Cell RCOE is open to all students of Rizvi College of Engineering who have an interest in technology. The term for members and heads of each department ends at the end of the calendar year, after which new members will be recruited. Interviews will be held for the new heads, and the previous heads will serve as mentors until their graduation.
 
 ## Leadership
-The Code Cell RCOE shall be led by two committee heads and each department may have a department head up to two sub-heads. The leadership team shall be responsible for planning and organizing the activities of the organization.
+The Code Cell RCOE shall be led by two committee heads and each department may have a department head up to two sub-heads. The leadership team shall be responsible for planning and organizing the activities of the organization. Any conflict between the two Committee Heads will be resolved by the Tech Head.
 
 ## Departments
 The Code Cell RCOE consists of three departments, each headed by a designated student leader:
